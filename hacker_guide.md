@@ -85,3 +85,6 @@ We've reached out to some remarkable people to be our judges for the hackathon! 
 ### SDGs Knowledge Hub
 We've crafted a Gist that should help you get started on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://gist.github.com/MinervaHackathon/80d218929e2eca98abb8e791cf13c684).
  
+## Code of conduct
+
+We abide by the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf) and the [Minerva Hackathon code of conduct](https://hackcodeofconduct.org/969-minerva_hackathon). Make sure you're familiar with them!
