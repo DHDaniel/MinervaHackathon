@@ -72,8 +72,15 @@ Once you've submitted your project, there'll be a space for you to demo it in fr
 
 After this first round, judges will select six teams that will then demo their amazing project in front of all the hackers. **Prepare to be blown away.**
 
-### Awards and Closing Ceremony 
+### Judges
 
+We've reached out to some remarkable people to be our judges for the hackathon! Click on their names below to learn more about them:
+- #### [Amber Yang](https://www.vox.com/videos/2018/4/25/17279414/19-year-old-space-debris-ai-solution-seer-tracking)
+- #### [Charu Sharma](https://www.linkedin.com/in/charusharma1/)
+- #### [Chun-Hao Huang](https://www.linkedin.com/in/chun-hao-huang/)
+- #### [Luc Ibata](https://www.linkedin.com/in/lucibata/)
+- #### [Maureen Keating](https://www.linkedin.com/in/maureenckeating/)
+- #### [Shikha Verma](https://www.linkedin.com/in/shikhaverma/)
 
 ### SDGs Knowledge Hub
 We've crafted a Gist that should help you get started on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://gist.github.com/MinervaHackathon/80d218929e2eca98abb8e791cf13c684).
