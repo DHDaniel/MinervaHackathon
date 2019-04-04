@@ -1,4 +1,4 @@
-# Hacker Guide
+# Hacker Guide - Minerva Hackathon 2019 👋
 
 ## About 
 ### What is Minerva Hackathon?
@@ -40,14 +40,14 @@ Hackathon is a collaborative event and it's encouraged to meet new friends and t
 Go to this spreadsheet to post your name, interest, ideas, skills. Connect with people. This will be the hub for team formation. 
 Questions for inspiration will be attached to the spreadsheet and teams can sign their members next to questions. If you want to work on your own question (which you are encouraged to!)
 
-#### 2 Slack Channel #find_team
-Check out the #find_team channel and post about your ideas, skills or needs! 
+#### 2 Slack Channel #team_formation
+Join Slack and check out the #find_team channel. Post about your ideas, skills or needs there! 
 The 7 categories of SDGs have their own channels where you can find all 17 SDGs. Hint - mention SDGs you're interesred to find people having similar goals and work together. 
 
-Lastly, don't forget you can just talk to people about your ideas! Being open-minded to share your ideas. 
+Lastly, don't forget you can just talk to people in person! Being open-minded to share your ideas, people will not likely to steal it. 
 
 ### Event Schedule 
-#### Day 1, April 6
+#### Day 1, April 6 ✨
 
 | **Time** | **Location** | **Activity** | **Details** |
 |----------|--------------|--------------|-------------|
@@ -60,10 +60,10 @@ Lastly, don't forget you can just talk to people about your ideas! Being open-mi
 | 6:00 PM | Common Area | Dinner |  |
 | 10:00 PM | Entrance | Door Close. (No re-enter until 8 AM the next day!) |  |
 
-##### Day 2, April 7
+#### Day 2, April 7 ✨
 
-| **Time** | **Location** | **Activity** | **Details** |
-|----------|--------------|--------------|-------------|
+| **Time            .** | **Location** | **Activity** | **Details** |
+|--------------------|--------------|--------------|-------------|
 | 8: 00 AM | Entrance |  Door Open |  |
 | 9: 00 AM | Common Area | Breakfast | Rise and shine. |
 | 11: 00 AM | Common Area | DevPost Submission Closed | Upload your project to DevPost before it closes! |
@@ -72,7 +72,7 @@ Lastly, don't forget you can just talk to people about your ideas! Being open-mi
 | 2:15 - 4:00 PM | Stage | Pitches, Award and Closing | Thank you for coming and hacking to make the world more sustainable. |
 | 4:00 - 4:15 PM | Everywhere | Departures | Please take back everything you own, throw away trash, and help the organizers and volunteers in cleaning up the space. |
 
-### Workshops
+### Workshops 🚀
 
 We have organized workshops for you to help your ideation process and facilitate you in coming up with innovative and sustainable solutions. 
     
@@ -88,8 +88,8 @@ All workshops will be held at the Stage Area. If you would like more information
 We've crafted a GitHub guide that should help you get inspiration on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://github.com/DHDaniel/MinervaHackathon/blob/master/knowledge_hub.md).
 
 
-### Criteria 
-TBA. 
+### Criteria 🎖
+TBA
 
 ### Submissions 📤 
 To submit your project, you'll go to our [**DevPost site**](https://minervahackathon.devpost.com/) and register there. On the day of the hackathon, submissions will open, letting you create a new project where you can add descriptions, links, screenshots, and many other things. The DevPost page should guide you through the whole process.
