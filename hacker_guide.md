@@ -74,15 +74,15 @@ Lastly, don't forget you can just talk to people about your ideas! Being open-mi
 
 ### Workshops
 
-    We have organized workshops for you to help your ideation process and facilitate you in coming up with innovative and sustainable solutions. 
+We have organized workshops for you to help your ideation process and facilitate you in coming up with innovative and sustainable solutions. 
     
-    All workshops will be held at the Stage Area. If you would like more information,  you can either Slack or find the respective PoC about the workshops!
+All workshops will be held at the Stage Area. If you would like more information,  you can either Slack or find the respective PoC about the workshops!
     
-    | **Workshop Name** | **Time** |  **Trainer** |
-    |-------------------------------------|----------------|-------------------|
-    | Ideation with #rightproblem | 1:00 – 2:00 PM | Chris Wilkinson |
-    | Intro to Deep Learning | 3:30 – 4:30 PM | Vikram Singh |  
-    | Intro to Blockchain (Social Impact) | 4:45 – 5:45 PM | Whittney Griffith |
+| **Workshop Name** | **Time** |  **Trainer** |
+|-------------------------------------|----------------|-------------------|
+| Ideation with #rightproblem | 1:00 – 2:00 PM | Chris Wilkinson |
+| Intro to Deep Learning | 3:30 – 4:30 PM | Vikram Singh |  
+| Intro to Blockchain (Social Impact) | 4:45 – 5:45 PM | Whittney Griffith |
 
 ### Ideation - SDGs Knowledge Hub 📕
 We've crafted a GitHub guide that should help you get inspiration on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://github.com/DHDaniel/MinervaHackathon/blob/master/knowledge_hub.md).
@@ -123,5 +123,7 @@ We abide by the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-con
 
 ## Sponsors 💪🏻
 Thanks to our awesome sponsors GitHub to provide all hackers great venue and foods.
-![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png) 
-What is GitHub? [Click here to learn about it](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub Logo" width="250px" />
+
+What is GitHub? [Click here to learn more about it](https://www.youtube.com/watch?v=w3jLJU7DT5E)
