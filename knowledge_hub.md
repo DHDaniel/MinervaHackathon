@@ -3,6 +3,8 @@ This document is a hub for quick information on each Sustainable Development Goa
 
 However, this document is not the end-all be-all knowledge source for these goals. There is much more information out there, and we encourage you to go above and beyond what's here. A great source to start with is the UN SDG site itself, [here](https://sustainabledevelopment.un.org/?menu=1300).
 
+![SDGs](https://www.ecohz.com/wp-content/uploads/2016/04/SDGs_poster_new1-e1470856750431-1280x785.png)
+
 # Contents
 - **GOAL 1:** [No Poverty](#goal-1-no-poverty)
 - **GOAL 2:** [Zero Hunger](#goal-2-zero-hunger)
