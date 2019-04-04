@@ -83,8 +83,7 @@ Lastly, don't forget you can just talk to people about your ideas! Being open-mi
     | Intro to Blockchain (Social Impact) | 4:45 – 5:45 PM | Whittney Griffith |
 
 ### Ideation - SDGs Knowledge Hub 📕
-"What ideas should I work on?"
-We've crafted a GitHub Gist that should help you get inspiration on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://gist.github.com/MinervaHackathon/80d218929e2eca98abb8e791cf13c684).
+We've crafted a GitHub guide that should help you get inspiration on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://github.com/DHDaniel/MinervaHackathon/blob/master/knowledge_hub.md).
 
 
 ### Criteria 
@@ -114,7 +113,7 @@ We've reached out to some remarkable people to be our judges for the hackathon! 
 - #### [Maureen Keating](https://www.linkedin.com/in/maureenckeating/)
 - #### [Shikha Verma](https://www.linkedin.com/in/shikhaverma/)
 
- 
+
 ## Code of conduct 📣
 
 We abide by the [MLH Code of Conduct](https://static.mlh.io/docs/mlh-code-of-conduct.pdf) and the [Minerva Hackathon code of conduct](https://hackcodeofconduct.org/969-minerva_hackathon). Make sure you're familiar with them!
