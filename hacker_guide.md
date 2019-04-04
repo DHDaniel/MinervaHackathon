@@ -99,7 +99,7 @@ We've reached out to some remarkable people to be our judges for the hackathon! 
 - #### [Shikha Verma](https://www.linkedin.com/in/shikhaverma/)
 
 ### SDGs Knowledge Hub
-We've crafted a Gist that should help you get started on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://gist.github.com/MinervaHackathon/80d218929e2eca98abb8e791cf13c684).
+We've crafted a Gist that should help you get started on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://github.com/DHDaniel/MinervaHackathon/blob/master/knowledge_hub.md).
  
 ## Code of conduct
 
