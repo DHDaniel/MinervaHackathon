@@ -105,7 +105,7 @@ SDG 3 tackles many complex systems that have to be explored in many levels of an
 [Sleep Cycle](https://www.sleepcycle.com) - an application that analyses sleep quality 
 
 
-# GOAL 4: Quality Education - Svitlana
+# GOAL 4: Quality Education
 Education has always played a crucial role in society’s development. Utilizing learned knowledge for sustainable world requires having quality education for any social groups and regions. Some of the reasons for poor education, as defined by the United Nations, are ‘lack of adequately trained teachers, poor conditions of schools and equity issues related to opportunities provided to rural children’. As the famous Mandela’s quote, ‘Education is the most powerful weapon which you can use to change the world’. For more information see the UN vision on this challenge!
 
 We are looking for creative, innovative ideas that may improve the quality of education worldwide and locally from the novel perspective.  Some organizations, such as UNESCO, are working on ‘improvement of an access to quality education on sustainable development at all levels and in all social contexts, to transform society by reorienting education and help people develop knowledge, skills, values and behaviours needed for sustainable development.’
@@ -277,7 +277,7 @@ Finding new ways to encourage, foster and sustain investment in industry and inf
 [Forbes AgroTech Startups List](https://www.forbes.com/sites/maggiemcgrath/2018/06/27/the-25-most-innovative-agtech-startups-in-2018/#36fc723c2302)
 
 
-# GOAL 10: Reduced Inequality -Daniel
+# GOAL 10: Reduced Inequality 
 Income inequality continues to increase in today’s globalised world, with the richest 10% of people in the world earning 40% of the world’s total income -- and this difference is even more stark within countries and communities. A more equal distribution of income, that is justly allocated and is not influenced by race, sex, or ethnicity, leads to a more productive economy and an improved quality of life for all.
 
 Solving a complex problem like this one requires approaches from multiple angles that rely on diverse backgrounds and perspectives. From improving financial market regulations to facilitating the safe migration and labour mobility of people, a multifaceted approach is required to bridge the “great divide”.
