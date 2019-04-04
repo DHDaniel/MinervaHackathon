@@ -127,3 +127,6 @@ Thanks to our awesome sponsors GitHub to provide all hackers great venue and foo
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub Logo" width="250px" />
 
 What is GitHub? [Click here to learn more about it](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+## Any questions? 👋
+Send to #askit channel in Slack, or send an email to info@minervahackathon.com . You can also ask organizers / volunteers in event. 
