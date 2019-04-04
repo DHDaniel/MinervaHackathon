@@ -48,8 +48,9 @@ Lastly, don't forget you can just talk to people about your ideas! Being open-mi
 
 ### Event Schedule 
 #### Day 1, April 6
-|-----------------|----------------|----------------------|-------------------------------------------------------------------------------------------|
+
 | **Time** | **Location** | **Activity** | **Details** |
+|----------|--------------|--------------|-------------|
 | 9:00 - 10:00 AM | Entrance | Registrations | Have your photo ID |
 | 10:00 AM | Stage | Opening | Gather round to get on board with our amazing hosts: Alexander Wu. |
 | 11:30 AM | Common Area | Team Formation | Find people to team with and get cracking. |
@@ -60,8 +61,9 @@ Lastly, don't forget you can just talk to people about your ideas! Being open-mi
 | 10:00 PM | Entrance | Door Close. (No re-enter until 8 AM the next day!) |  |
 
 ##### Day 2, April 7
-|-----------------|--------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 | **Time** | **Location** | **Activity** | **Details** |
+|----------|--------------|--------------|-------------|
 | 8: 00 AM | Entrance |  Door Open |  |
 | 9: 00 AM | Common Area | Breakfast | Rise and shine. |
 | 11: 00 AM | Common Area | DevPost Submission Closed | Upload your project to DevPost before it closes! |
