@@ -40,6 +40,22 @@ This guide is meant to do just that - _guide you_ - throughout the hackathon. Yo
   
 
 ## During 
+
+### Team formation
+
+Hackers are encouraged to work in teams during the event for better collaboration and cooperation. To make the process easier, we've used channels within the Slack workspace and a live spreadsheet to register your teams.
+
+#### Slack
+The 7 categories of SDGs have their own channels where you can find all 17 SDGs. Questions for inspiration are pinned in each channel where you can communicate with people interested in similar goals and work together. 
+
+If you want to work on your own question, you can use the “#generated” channel to post it and get other individuals that might also be interested in it.
+
+#### Spreadsheet
+A live spreadsheet will be posted where you can insert your name under the 7 categories and 17 SDGs next to questions you want to work on. All team members can be signed on in the cells. 
+
+Questions for inspiration will be attached to the spreadsheet and teams can sign their members next to questions. If you want to work on your own question (which you are encouraged to!), you can write it under the “hacker submitted questions” list so that others might also tackle them, or reach out to you to help out. 
+
+
 ### Event Schedule 
 | Day 1 |  |  |  |
 |-----------------|----------------|----------------------|-------------------------------------------------------------------------------------------|
