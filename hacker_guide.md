@@ -72,6 +72,18 @@ Lastly, don't forget you can just talk to people in person! Being open-minded to
 | 2:15 - 4:00 PM | Stage | Pitches, Award and Closing | Thank you for coming and hacking to make the world more sustainable. |
 | 4:00 - 4:15 PM | Everywhere | Departures | Please take back everything you own, throw away trash, and help the organizers and volunteers in cleaning up the space. |
 
+### Sleeping Logistics 😴
+#### Things to remember
+* Doors will close at 10 p.m. on Saturday and anyone will be allowed to enter GitHub until 8 a.m. on Sunday
+* Only 18+ participants will be allowed to sleep at the venue
+
+#### Sleeping @GitHub 💤
+* Minerva Hackathon will borrow 20 sleeping bags for participants, pre-reservation is not available. 
+* To receive a sleeping bag, Hackers must give to the responsible person their ID (only documents with picture will be accepted, no credit or debit cards), phone number (for contacting purposes) and Slack name.
+* All sleeping bags must be returned to Minerva Hackathon team by Sunday, at 9 am. 
+* The points of contact for sleeping logics is Lucas. (Slack name: Lucas Mudo) 
+* After 11 pm on Saturday, the couch area and the stage area will be exclusive for Hackers that want to sleep. Thus, teams should prioritize using the kitchen area.
+
 ### Workshops 🚀
 
 We have organized workshops for you to help your ideation process and facilitate you in coming up with innovative and sustainable solutions. 
