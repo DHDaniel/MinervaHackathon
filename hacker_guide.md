@@ -1,4 +1,5 @@
 # Hacker Guide - Minerva Hackathon 2019 👋
+- Slack Channel: https://minervahackathon2019.slack.com (Join link is in your confirmation email.)
 
 ## About 
 ### What is Minerva Hackathon?
