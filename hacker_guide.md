@@ -94,7 +94,6 @@ All workshops will be held at the Stage Area. If you would like more information
 | **Workshop Name** | **Time** |  **Trainer** |
 |-------------------------------------|----------------|-------------------|
 | Ideation with #rightproblem | 1:00 – 2:00 PM | Chris Wilkinson |
-| Intro to Deep Learning | 3:30 – 4:30 PM | Vikram Singh |  
 | Intro to Blockchain (Social Impact) | 4:45 – 5:45 PM | Whittney Griffith |
 
 ### Ideation - SDGs Knowledge Hub 📕
@@ -102,7 +101,21 @@ We've crafted a GitHub guide that should help you get inspiration on your SDG pr
 
 
 ### Criteria 🎖
-TBA
+Criteria explain how we think a good project should be. Here's three criteria for Minerva Hackathon:
+1. **Impact** (50%) 
+`Impact score = scalability x solvability x neglectedness`
+    - Scale – if we solved the problem, how good would it be?
+    - Solvability – if we doubled the resources dedicated to solving this problem, what fraction of the problem would we expect to solve?
+    - Neglectedness – how many resources are already going towards solving this problem?
+To sum up, the Impact score incentivice solutions that has a large sacle, feasible to sovle and is highly negelected.   
+Why measurement in this why? Understand more in [this article](https://80000hours.org/articles/problem-framework/)
+
+2. **SDG Relevance** (20%)
+    Is the solution related to the one of multiple UN's Sustainable Development Goals, and does the association strong? 
+
+3. **Demo / Pitch** (30 %)
+    Did the demo and the pitch appropriately complement the concept? We'll look at your tech implementation, design and user experience. 
+
 
 ### Submissions 📤 
 To submit your project, you'll go to our [**DevPost site**](https://minervahackathon.devpost.com/) and register there. On the day of the hackathon, submissions will open, letting you create a new project where you can add descriptions, links, screenshots, and many other things. The DevPost page should guide you through the whole process.
