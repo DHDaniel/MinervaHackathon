@@ -96,11 +96,19 @@ All workshops will be held at the Stage Area. If you would like more information
 | **Workshop Name** | **Time** |  **Trainer** |
 |-------------------------------------|----------------|-------------------|
 | Ideation with #rightproblem | 1:00 – 2:00 PM | Chris Wilkinson |
+| Intro to Slack App | 2:15 - 3:45 | Mikulas Plesak |
+| Intro to GitHub | 3:45 - 4:45 | Janghoon Lee | 
 | Intro to Blockchain (Social Impact) | 4:45 – 5:45 PM | Whittney Griffith |
+
+
 
 ### Ideation - SDGs Knowledge Hub 📕
 We've crafted a GitHub guide that should help you get inspiration on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://github.com/DHDaniel/MinervaHackathon/blob/master/knowledge_hub.md).
 
+### Mentors 😎 
+* Your code doesn't work? Did you stuck with your ideation? **Do not destroy your computer!!** 
+* We have awesome mentors here to help you with coding and ideation! To find them, just go to the slack channel #ask_a_mentor! 
+* To ask for help, please say in the message what do you need and the place where the mentors can find you! (You know, we haven't implanted GPS devices yet)
 
 ### Criteria 🎖
 Criteria explain how we think a good project should be. Here's three criteria for Minerva Hackathon:
