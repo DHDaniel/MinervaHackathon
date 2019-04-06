@@ -100,9 +100,10 @@ All workshops will be held at the Stage Area. If you would like more information
 ### Ideation - SDGs Knowledge Hub 📕
 We've crafted a GitHub guide that should help you get inspiration on your SDG projects. **We highly recommend reading this before starting to hack!** You'll find tons of useful information, from what exactly each SDG is concerned with to datasets and examples of past projects for inspiration. Find it [here](https://github.com/DHDaniel/MinervaHackathon/blob/master/knowledge_hub.md).
 
-
-### Criteria 🎖
-TBA
+### Judging Criteria 🎖
+* **SDG Relevance:** Is the solution related to the UN's Sustainable Development Goals?
+* **Demo / Pitch:** Did the demo and the pitch appropriately complement the concept?
+* **Impact:** How impactful is the solution in regards to solving the right problem, scalability, creativity, and disruptiveness?
 
 ### Submissions 📤 
 To submit your project, you'll go to our [**DevPost site**](https://minervahackathon.devpost.com/) and register there. On the day of the hackathon, submissions will open, letting you create a new project where you can add descriptions, links, screenshots, and many other things. The DevPost page should guide you through the whole process.
