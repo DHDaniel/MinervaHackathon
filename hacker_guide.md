@@ -64,7 +64,7 @@ Lastly, don't forget you can just talk to people in person! Being open-minded to
 
 | **Time            .** | **Location** | **Activity** | **Details** |
 |--------------------|--------------|--------------|-------------|
-| 8: 00 AM | Entrance |  Door Open |  |
+| 8: 00 AM | Entrance |  Doors Open |  |
 | 9: 00 AM | Common Area | Breakfast | Rise and shine. |
 | 11: 00 AM | Common Area | DevPost Submission Closed | Upload your project to DevPost before it closes! |
 | 12:00 PM | Common Area | End of Hacking | Lunch | By this time, you should have submitted your project and must be ready to present. Get some food to re-energize. Meet people.|
