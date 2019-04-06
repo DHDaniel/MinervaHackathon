@@ -1,5 +1,7 @@
 # Hacker Guide - Minerva Hackathon 2019 👋
 - Slack Channel: https://minervahackathon2019.slack.com (Join link is in your confirmation email.)
+- SDGs knowledge Hub: bit.ly/MH_sdgs
+- Team formation: bit.ly/MH_team
 
 ## About 
 ### What is Minerva Hackathon?
@@ -115,6 +117,11 @@ Why measurement in this why? Understand more in [this article](https://80000hour
 
 3. **Demo / Pitch** (30 %)
     Did the demo and the pitch appropriately complement the concept? We'll look at your tech implementation, design and user experience. 
+
+### Prizes 
+1. 400$ credite for the best use of [Paperspace](https://use.paperspace.com/gradient)
+
+Rest of prize TBA.
 
 
 ### Submissions 📤 
