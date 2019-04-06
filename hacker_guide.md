@@ -52,13 +52,13 @@ Lastly, don't forget you can just talk to people in person! Being open-minded to
 | **Time** | **Location** | **Activity** | **Details** |
 |----------|--------------|--------------|-------------|
 | 9:00 - 10:00 AM | Entrance | Registrations | Have your photo ID |
-| 10:00 AM | Stage | Opening | Gather round to get on board with our amazing hosts: Alexander Wu. |
+| 10:30 AM | Stage | Opening | Gather round to get on board with our amazing hosts: Alexander Wu. |
 | 11:30 AM | Common Area | Team Formation | Find people to team with and get cracking. |
 | 11:45 AM | Common Area | Food and Hacking | Share your brilliant ideas with each other over food. |
 | Ongoing | Anywhere | Hacking |  |
-| 1:00 - 5:30 AM | Stage | Workshops (Optional) | These workshops are optional but highly encouraged. Learn more about the workshops below. |
+| 1:00 - 5:30 PM | Stage | Workshops (Optional) | These workshops are optional but highly encouraged. Learn more about the workshops below. |
 | 6:00 PM | Common Area | Dinner |  |
-| 10:00 PM | Entrance | Door Close. (No re-enter until 8 AM the next day!) |  |
+| 10:00 PM | Entrance | Doors Close. (No re-enter until 8 AM the next day!) |  |
 
 #### Day 2, April 7 ✨
 
@@ -70,7 +70,7 @@ Lastly, don't forget you can just talk to people in person! Being open-minded to
 | 12:00 PM | Common Area | End of Hacking | Lunch | By this time, you should have submitted your project and must be ready to present. Get some food to re-energize. Meet people.|
 | 1:00 – 2:00 PM | Everywhere | Demos Round | You will present your projects to the judges, who will then evaluate whether you qualify for the final round. You will be notified if you get selected to pitch. Stay updated. |
 | 2:15 - 4:00 PM | Stage | Pitches, Award and Closing | Thank you for coming and hacking to make the world more sustainable. |
-| 4:00 - 4:15 PM | Everywhere | Departures | Please take back everything you own, throw away trash, and help the organizers and volunteers in cleaning up the space. |
+| 4:00 - 5:30 PM | Everywhere | Departures | Please take back everything you own, throw away trash, and help the organizers and volunteers in cleaning up the space. |
 
 ### Sleeping Logistics 😴
 #### Things to remember
