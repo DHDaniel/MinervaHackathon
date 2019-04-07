@@ -126,10 +126,20 @@ Why measurement in this why? Understand more in [this article](https://80000hour
 3. **Demo / Pitch** (30 %)
     Did the demo and the pitch appropriately complement the concept? We'll look at your tech implementation, design and user experience. 
 
-### Prizes 
-1. 400$ credite for the best use of [Paperspace](https://use.paperspace.com/gradient)
+### Prizes 🏆
 
-Rest of prize TBA.
+#### Overall 
+* **1st place:** Google Home Mini for the entire team
+* **2nd place:** Boba Guys tile hoodies + tea for the entire team
+* **3rd place:** Boba Guys totes for the entire team (edited) 
+
+#### And here are the prizes from MLH:
+
+* **Best use of Google Cloud Platform:** Google Home Minis
+* **Best domain registered with domain.com:** Raspberry Pis & PiHut essential kits
+* **Best IoT Hack using a Qualcomm device:** DragonBoard 410Cs
+* **Best use of Blockstack:** $100 Amazon gift card
+* 400$ credite for the best use of [Paperspace](https://use.paperspace.com/gradient)
 
 
 ### Submissions 📤 
